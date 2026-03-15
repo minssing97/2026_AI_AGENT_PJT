@@ -1,0 +1,13 @@
+﻿연구개발부
+이동훈과장
+
+CONTENTS
+생성형AI와API
+I
+도면검토
+II
+2/30
+BM테이블추출
+III
+
+Error: 'cp949' codec can't encode character '\u2022' in position 27: illegal multibyte sequence
